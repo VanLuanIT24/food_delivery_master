@@ -11,9 +11,9 @@ npm install -g firebase-tools
 firebase login
 
 ### 1.3. Kết nối dự án Flutter với Firebase
-dart pub global activate flutterfire_cli
+```bash dart pub global activate flutterfire_cli ```
 
-<pre> ```bash flutterfire configure ``` </pre>
+```bash flutterfire configure ```
 
 
 
