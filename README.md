@@ -5,7 +5,8 @@ my app flutter
 Sau khi đã tải app, hãy xóa file firebase_options.dart cũ trong project và mở terminal lên.
 
 ### 1.1. Cài đặt Firebase CLI
-```bash npm install -g firebase-tools ```
+```bash
+npm install -g firebase-tools
 
 ### 1.2. Đăng nhập Firebase
 ```bash firebase login ```
