@@ -14,10 +14,11 @@ firebase login
 ```
 
 ### 1.3. Kết nối dự án Flutter với Firebase
+##### Cài đặt FlutterFire CLI:
 ```bash
 dart pub global activate flutterfire_cli
 ```
-
+##### Chạy lệnh cấu hình:
 ```bash
 flutterfire configure
 ```
