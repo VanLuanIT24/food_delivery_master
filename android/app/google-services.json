@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "692447083643",
+    "project_id": "fir-food-delivery-master",
+    "storage_bucket": "fir-food-delivery-master.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:692447083643:android:c41a03a0375b49bd3b36de",
+        "android_client_info": {
+          "package_name": "com.example.food_delivery_master"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgtq01-YZs_eCkNIqZ0_6I2l0Ik0RfHQA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
