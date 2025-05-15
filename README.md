@@ -1,16 +1,27 @@
-# food_delivery_master
+# 📦 food_delivery_master
+my app flutter
 
-App food delivery
+## 🔥 1. Hướng dẫn kết nối Firebase với app bằng Firebase CLI
+Sau khi đã tải app, hãy xóa file firebase_options.dart cũ trong project và mở terminal lên.
 
-## Getting Started
+### 1.1. Cài đặt Firebase CLI
+```bash
+npm install -g firebase-tools
+```
+### 1.2. Đăng nhập Firebase
+```bash 
+firebase login
+```
 
-This project is a starting point for a Flutter application.
+### 1.3. Kết nối dự án Flutter với Firebase
+##### Cài đặt FlutterFire CLI:
+```bash
+dart pub global activate flutterfire_cli
+```
+##### Chạy lệnh cấu hình:
+```bash
+flutterfire configure
+```
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
