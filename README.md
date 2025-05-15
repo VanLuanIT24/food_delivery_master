@@ -12,7 +12,8 @@ firebase login
 
 ### 1.3. Kết nối dự án Flutter với Firebase
 dart pub global activate flutterfire_cli
-flutterfire configure
+
+<pre> ```bash flutterfire configure ``` </pre>
 
 
 
