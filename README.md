@@ -23,5 +23,13 @@ dart pub global activate flutterfire_cli
 flutterfire configure
 ```
 
-
-
+## À có khi bạn sẽ cần: Cách lấy SHA1 và SHA256 của app đơn giản và hiêu quả trong Android Studio với app Flutter
+###### Bước 1: Mở terminal đã cd đến project/app sau đó 
+```bash
+cd android
+```
+###### Rồi lại chạy tiếp câu lệnh sau: 
+```bash
+./gradlew signingReport
+```
+###### =>Sau đó sẽ có thành quả bạn mong muốn 
